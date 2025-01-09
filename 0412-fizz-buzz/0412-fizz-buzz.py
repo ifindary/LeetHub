@@ -3,11 +3,14 @@ class Solution:
         ans = []
 
         for i in range(1, n+1):
-            if i%3 == 0 and i%5 == 0:
+            a = i%3
+            b = i%5
+
+            if a + b == 0:
                 ans.append("FizzBuzz")
-            elif i%3 == 0:
+            elif a == 0:
                 ans.append("Fizz")
-            elif i%5 == 0:
+            elif b == 0:
                 ans.append("Buzz")
             else:
                 ans.append(str(i))
