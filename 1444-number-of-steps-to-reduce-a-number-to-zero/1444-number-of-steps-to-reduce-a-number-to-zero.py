@@ -5,8 +5,8 @@ class Solution:
         while num > 0:
             step += 1
 
-            if num%2 == 0:
-                num = num//2
+            if num & 1 == 0:
+                num >>= 1
             else:
                 num -= 1
 
