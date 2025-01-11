@@ -17,15 +17,5 @@ class Solution:
 
         for _ in range(n):
             current2 = current2.next
-
-        ans = ListNode(current2.val)
-        current_ans = ans
-        current2 = current2.next
-        
-        while current2:
-            new_node = ListNode(current2.val)
-            current_ans.next = new_node
-            current_ans = new_node
-            current2 = current2.next
-
-        return ans
+            
+        return current2
