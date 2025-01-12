@@ -1,10 +1,8 @@
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
-        magazineCount = Counter(magazine)
-        noteCount = Counter(ransomNote)
-        
-        for char, count in noteCount.items():
-            if magazineCount[char] < count:
-                return False
+        # this code references the code of 'Solutions' on LeetCode
+        st1, st2 = Counter(ransomNote), Counter(magazine)
 
-        return True
+        # compute the intersection of two Counters
+        # the intersection includes only the common characters and takes the minimum count for each
+        return st1 & st2 == st1
