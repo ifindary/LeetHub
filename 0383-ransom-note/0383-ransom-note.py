@@ -1,7 +1,7 @@
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
-        letters = sorted(list(magazine))
-        targets = sorted(list(ransomNote))
+        letters = list(magazine)
+        targets = list(ransomNote)
         
         for letter in letters:            
             if letter in targets:
