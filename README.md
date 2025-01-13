@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0383-ransom-note](https://github.com/ifindary/LeetHub/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/ifindary/LeetHub/tree/master/0412-fizz-buzz) |
+| [0782-jewels-and-stones](https://github.com/ifindary/LeetHub/tree/master/0782-jewels-and-stones) |
 ## Simulation
 |  |
 | ------- |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/ifindary/LeetHub/tree/master/0383-ransom-note) |
+| [0782-jewels-and-stones](https://github.com/ifindary/LeetHub/tree/master/0782-jewels-and-stones) |
 ## Counting
 |  |
 | ------- |
