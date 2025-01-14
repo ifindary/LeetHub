@@ -3,6 +3,9 @@ class Solution:
         if k < n:
             return k
 
+        cycle = 2 * (n - 1)
+        k %= cycle
+
         time = 0
         order = 0
         direction = True # true : right, false: left
