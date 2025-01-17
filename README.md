@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ifindary/LeetHub/tree/master/0013-roman-to-integer) |
+| [0231-power-of-two](https://github.com/ifindary/LeetHub/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/ifindary/LeetHub/tree/master/0412-fizz-buzz) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ifindary/LeetHub/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2383-add-two-integers](https://github.com/ifindary/LeetHub/tree/master/2383-add-two-integers) |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/ifindary/LeetHub/tree/master/0231-power-of-two) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ifindary/LeetHub/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Linked List
 |  |
@@ -59,4 +61,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/ifindary/LeetHub/tree/master/0383-ransom-note) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ifindary/LeetHub/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
