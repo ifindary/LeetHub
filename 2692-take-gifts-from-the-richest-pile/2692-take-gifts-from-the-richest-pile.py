@@ -1,11 +1,10 @@
 class Solution:
     def pickGifts(self, gifts: List[int], k: int) -> int:
-        while k > 0:
-            k -= 1
+        heapGifts = [-x for x in gifts]        
+        heapify(heapGifts)
+        
+        for _ in range(k):
+            tmp = isqrt(-heappop(heapGifts))
+            heappush(heapGifts, -tmp)
 
-            temp = max(gifts)
-
-            gifts.remove(temp)
-            gifts.append(math.floor(math.sqrt(temp)))
-
-        return sum(gifts)
+        return -sum(heapGifts)
