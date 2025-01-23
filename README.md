@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1651-shuffle-string](https://github.com/ifindary/LeetHub/tree/master/1651-shuffle-string) |
 | [1791-richest-customer-wealth](https://github.com/ifindary/LeetHub/tree/master/1791-richest-customer-wealth) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ifindary/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/ifindary/LeetHub/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/ifindary/LeetHub/tree/master/0412-fizz-buzz) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/ifindary/LeetHub/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2857-total-distance-traveled](https://github.com/ifindary/LeetHub/tree/master/2857-total-distance-traveled) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/ifindary/LeetHub/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Bit Manipulation
@@ -83,4 +85,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/ifindary/LeetHub/tree/master/1013-fibonacci-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/ifindary/LeetHub/tree/master/2692-take-gifts-from-the-richest-pile) |
 <!---LeetCode Topics End-->
