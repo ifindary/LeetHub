@@ -1,11 +1,18 @@
 class Solution:
     def lemonadeChange(self, bills: List[int]) -> bool:
-        wallet = {5: 0, 10: 0, 20: 0}
+        if bills[0] > 5:
+            return False
+        
+        wallet = {5: 0, 10: 0}
 
         for bill in bills:
             if bill == 5:
                 wallet[5] += 1
-            elif bill == 10:
+            else:
+                if wallet[5] < 1:
+                    return False
+            
+            if bill == 10:
                 if wallet[5] < 1:
                     return False
                 else:
