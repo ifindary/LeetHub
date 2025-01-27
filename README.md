@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1651-shuffle-string](https://github.com/ifindary/LeetHub/tree/master/1651-shuffle-string) |
 | [1791-richest-customer-wealth](https://github.com/ifindary/LeetHub/tree/master/1791-richest-customer-wealth) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ifindary/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/ifindary/LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ifindary/LeetHub/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Prefix Sum
 |  |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/ifindary/LeetHub/tree/master/0412-fizz-buzz) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/ifindary/LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ifindary/LeetHub/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2857-total-distance-traveled](https://github.com/ifindary/LeetHub/tree/master/2857-total-distance-traveled) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/ifindary/LeetHub/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
@@ -68,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/ifindary/LeetHub/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/ifindary/LeetHub/tree/master/0782-jewels-and-stones) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ifindary/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/ifindary/LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Counting
 |  |
 | ------- |
@@ -110,4 +113,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ifindary/LeetHub/tree/master/0111-minimum-depth-of-binary-tree) |
+## Sorting
+|  |
+| ------- |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/ifindary/LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
 <!---LeetCode Topics End-->
