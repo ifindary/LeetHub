@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1603-running-sum-of-1d-array](https://github.com/ifindary/LeetHub/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/ifindary/LeetHub/tree/master/1651-shuffle-string) |
 | [1791-richest-customer-wealth](https://github.com/ifindary/LeetHub/tree/master/1791-richest-customer-wealth) |
+| [2058-concatenation-of-array](https://github.com/ifindary/LeetHub/tree/master/2058-concatenation-of-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ifindary/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ifindary/LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ifindary/LeetHub/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/ifindary/LeetHub/tree/master/0412-fizz-buzz) |
+| [2058-concatenation-of-array](https://github.com/ifindary/LeetHub/tree/master/2058-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ifindary/LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ifindary/LeetHub/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2857-total-distance-traveled](https://github.com/ifindary/LeetHub/tree/master/2857-total-distance-traveled) |
