@@ -1,21 +1,14 @@
 class Solution:
     def backspaceCompare(self, s: str, t: str) -> bool:
-        editedS = []
-        editedT = []
+        def edited(text: str) -> str:
+            editedText = []
 
-        for letterS in s:
-            if letterS == "#" and editedS:
-                editedS.pop()
-            elif letterS != "#":
-                editedS.append(letterS)
+            for letter in text:
+                if letter == "#" and editedText:
+                    editedText.pop()
+                elif letter != "#":
+                    editedText.append(letter)
 
-        for letterT in t:
-            if letterT == "#" and editedT:
-                editedT.pop()
-            elif letterT != "#":
-                editedT.append(letterT)
+            return editedText
 
-        if editedS == editedT:
-            return True
-        else:
-            return False
+        return edited(s) == edited(t)
