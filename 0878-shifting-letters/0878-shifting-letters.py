@@ -1,13 +1,12 @@
 class Solution:
     def shiftingLetters(self, s: str, shifts: List[int]) -> str:
-        editedShifts = shifts.copy()
-        newS = []
+        shiftedS = ['']*len(shifts)
+        cumulativeShift = 0
 
-        for i in range(len(shifts)-2, -1, -1):
-            shifts[i] += shifts[i+1]
+        for i in range(len(shifts)-1, -1, -1):
+            cumulativeShift += shifts[i]
 
-        for i in range(len(shifts)):
-            tmp = (ord(s[i]) - ord('a') + shifts[i])%26
-            newS.append(chr(tmp + ord('a')))
+            tmp = (ord(s[i]) - ord('a') + cumulativeShift)%26 + ord('a')
+            shiftedS[i] = chr(tmp)
 
-        return ''.join(newS)
+        return ''.join(shiftedS)
