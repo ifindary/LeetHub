@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0878-shifting-letters](https://github.com/ifindary/LeetHub/tree/master/0878-shifting-letters) |
 | [0890-lemonade-change](https://github.com/ifindary/LeetHub/tree/master/0890-lemonade-change) |
 | [1603-running-sum-of-1d-array](https://github.com/ifindary/LeetHub/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/ifindary/LeetHub/tree/master/1651-shuffle-string) |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0878-shifting-letters](https://github.com/ifindary/LeetHub/tree/master/0878-shifting-letters) |
 | [1603-running-sum-of-1d-array](https://github.com/ifindary/LeetHub/tree/master/1603-running-sum-of-1d-array) |
 ## Matrix
 |  |
@@ -43,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/ifindary/LeetHub/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/ifindary/LeetHub/tree/master/0782-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/ifindary/LeetHub/tree/master/0874-backspace-string-compare) |
+| [0878-shifting-letters](https://github.com/ifindary/LeetHub/tree/master/0878-shifting-letters) |
 | [1651-shuffle-string](https://github.com/ifindary/LeetHub/tree/master/1651-shuffle-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ifindary/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Simulation
