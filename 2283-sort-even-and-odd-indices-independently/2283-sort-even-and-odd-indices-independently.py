@@ -1,23 +1,12 @@
 class Solution:
     def sortEvenOdd(self, nums: List[int]) -> List[int]:
-        oddNums = []
-        evenNums = []
-
-        for i in range(len(nums)):
-            if i%2 == 0:
-                evenNums.append(nums[i])
-            else:
-                oddNums.append(nums[i])
+        evenNums = [nums[i] for i in range(0, len(nums), 2)]
+        oddNums = [nums[i] for i in range(1, len(nums), 2)]
 
         evenNums.sort()
         oddNums.sort(reverse=True)
 
-        ans = []
+        nums[::2] = evenNums
+        nums[1::2] = oddNums
 
-        for i in range(len(nums)):
-            if i%2 == 0:
-                ans.append(evenNums[i//2])
-            else:
-                ans.append(oddNums[i//2])
-
-        return ans
+        return nums
