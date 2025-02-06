@@ -1,17 +1,23 @@
 class Solution:
     def romanToInt(self, s: str) -> int:
-        romanValues = {
-        'I': 1, 'V': 5, 'X': 10, 'L': 50, 'C': 100, 'D': 500, 'M': 1000
-        }
+        roman_values = {
+        'I': 1, 'V': 5, 'X': 10, 'L': 50,
+        'C': 100, 'D': 500, 'M': 1000
+      }
     
         total = 0
-
-        for i in range(len(s)-1):
-            if romanValues[s[i]] < romanValues[s[i+1]]:
-                total -= romanValues[s[i]]
+        prev_value = 0  # 이전 문자의 값 저장
+    
+    # 문자열을 오른쪽에서 왼쪽으로 순회
+        for char in reversed(s):
+            current_value = roman_values[char]
+        
+        # 이전 값보다 작으면 빼기, 그렇지 않으면 더하기
+            if current_value < prev_value:
+                total -= current_value
             else:
-                total += romanValues[s[i]]
-
-        total += romanValues[s[-1]]
-
+                total += current_value
+        
+            prev_value = current_value
+    
         return total
