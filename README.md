@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ifindary/LeetHub/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/ifindary/LeetHub/tree/master/0136-single-number) |
 | [0878-shifting-letters](https://github.com/ifindary/LeetHub/tree/master/0878-shifting-letters) |
 | [0890-lemonade-change](https://github.com/ifindary/LeetHub/tree/master/0890-lemonade-change) |
 | [1603-running-sum-of-1d-array](https://github.com/ifindary/LeetHub/tree/master/1603-running-sum-of-1d-array) |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ifindary/LeetHub/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ifindary/LeetHub/tree/master/0231-power-of-two) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ifindary/LeetHub/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Linked List
