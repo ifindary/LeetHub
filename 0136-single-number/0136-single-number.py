@@ -1,9 +1,14 @@
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
         while True:
-            tmp = 0
+            tmp = nums.pop()
 
-            for num in nums:
-                tmp ^= num
+            if not nums:
+                return tmp
 
-            return tmp
+            if tmp in nums:
+                nums.remove(tmp)
+            else:
+                return tmp
+
+        
