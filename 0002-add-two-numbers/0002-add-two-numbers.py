@@ -14,17 +14,19 @@ class Solution:
         node3 = newList
 
         while node1 or node2 or upCnt:
-            val1 = node1.val if node1 else 0
-            val2 = node2.val if node2 else 0
+            tmp = upCnt
             
-            tmp = val1 + val2 + upCnt
+            if node1:
+                tmp += node1.val
+                node1 = node1.next
+            if node2:
+                tmp += node2.val
+                node2 = node2.next
+            
             upCnt = tmp//10
             tmp %= 10
 
             node3.next = ListNode(tmp)            
             node3 = node3.next
-
-            node1 = node1.next if node1 else None
-            node2 = node2.next if node2 else None
 
         return newList.next
