@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ifindary/LeetHub/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/ifindary/LeetHub/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/ifindary/LeetHub/tree/master/0136-single-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ifindary/LeetHub/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0878-shifting-letters](https://github.com/ifindary/LeetHub/tree/master/0878-shifting-letters) |
@@ -146,5 +147,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ifindary/LeetHub/tree/master/0035-search-insert-position) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ifindary/LeetHub/tree/master/0745-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
