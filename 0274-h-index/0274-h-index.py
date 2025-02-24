@@ -1,7 +1,7 @@
 class Solution:
     def hIndex(self, citations: List[int]) -> int:
-        ans = 0
         citations.sort(reverse=True)
+        ans = 0
         
         for idx, citation in enumerate(citations):
             if citation >= idx+1:
