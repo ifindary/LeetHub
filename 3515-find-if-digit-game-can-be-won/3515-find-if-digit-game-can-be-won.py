@@ -9,7 +9,4 @@ class Solution:
             else:
                 sumOver10 += num
         
-        if sumUnder10 == sumOver10:
-            return False
-        else:
-            return True
+        return sumUnder10 != sumOver10
