@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/ifindary/LeetHub/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/ifindary/LeetHub/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/ifindary/LeetHub/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/ifindary/LeetHub/tree/master/0137-single-number-ii) |
 | [0274-h-index](https://github.com/ifindary/LeetHub/tree/master/0274-h-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ifindary/LeetHub/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0878-shifting-letters](https://github.com/ifindary/LeetHub/tree/master/0878-shifting-letters) |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ifindary/LeetHub/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/ifindary/LeetHub/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/ifindary/LeetHub/tree/master/0231-power-of-two) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ifindary/LeetHub/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Linked List
