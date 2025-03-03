@@ -1,10 +1,13 @@
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
-        while nums:
-            tmp = nums.pop()
+        cnt = defaultdict(int)
 
-            if tmp in nums:
-                nums.remove(tmp)
-                nums.remove(tmp)
-            else:
-                return tmp
+        for num in nums:
+            cnt[num] += 1
+
+        for key, value in cnt.items():
+            if value == 1:
+                return key
+
+        return -1
+        
