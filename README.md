@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1651-shuffle-string](https://github.com/ifindary/LeetHub/tree/master/1651-shuffle-string) |
 | [2107-find-unique-binary-string](https://github.com/ifindary/LeetHub/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ifindary/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/ifindary/LeetHub/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Simulation
 |  |
 | ------- |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/ifindary/LeetHub/tree/master/0890-lemonade-change) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/ifindary/LeetHub/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2650-split-with-minimum-sum](https://github.com/ifindary/LeetHub/tree/master/2650-split-with-minimum-sum) |
 ## Tree
 |  |
@@ -170,4 +172,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0274-h-index](https://github.com/ifindary/LeetHub/tree/master/0274-h-index) |
+## Enumeration
+|  |
+| ------- |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/ifindary/LeetHub/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->
