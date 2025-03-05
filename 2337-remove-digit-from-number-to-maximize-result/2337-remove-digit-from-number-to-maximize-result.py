@@ -4,6 +4,9 @@ class Solution:
 
         for i in range(len(number)):
             if number[i] == digit:
-                candidates.append(int(number[:i] + number[i+1:]))
+                lastIndex = i
 
-        return str(max(candidates))
+                if i < len(number)-1 and number[i] < number[i+1]:
+                    return number[:i] + number[i+1:]
+
+        return number[:lastIndex] + number[lastIndex+1:]
