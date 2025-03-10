@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/ifindary/LeetHub/tree/master/0022-generate-parentheses) |
 | [0383-ransom-note](https://github.com/ifindary/LeetHub/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/ifindary/LeetHub/tree/master/0412-fizz-buzz) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ifindary/LeetHub/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/ifindary/LeetHub/tree/master/0782-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/ifindary/LeetHub/tree/master/0874-backspace-string-compare) |
 | [0878-shifting-letters](https://github.com/ifindary/LeetHub/tree/master/0878-shifting-letters) |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/ifindary/LeetHub/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ifindary/LeetHub/tree/master/0013-roman-to-integer) |
 | [0383-ransom-note](https://github.com/ifindary/LeetHub/tree/master/0383-ransom-note) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ifindary/LeetHub/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/ifindary/LeetHub/tree/master/0782-jewels-and-stones) |
 | [2107-find-unique-binary-string](https://github.com/ifindary/LeetHub/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ifindary/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -179,4 +181,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/ifindary/LeetHub/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ifindary/LeetHub/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
