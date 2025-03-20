@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/ifindary/LeetHub/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/ifindary/LeetHub/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/ifindary/LeetHub/tree/master/1013-fibonacci-number) |
+| [1195-distribute-candies-to-people](https://github.com/ifindary/LeetHub/tree/master/1195-distribute-candies-to-people) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ifindary/LeetHub/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ifindary/LeetHub/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2383-add-two-integers](https://github.com/ifindary/LeetHub/tree/master/2383-add-two-integers) |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0412-fizz-buzz](https://github.com/ifindary/LeetHub/tree/master/0412-fizz-buzz) |
 | [0874-backspace-string-compare](https://github.com/ifindary/LeetHub/tree/master/0874-backspace-string-compare) |
+| [1195-distribute-candies-to-people](https://github.com/ifindary/LeetHub/tree/master/1195-distribute-candies-to-people) |
 | [2058-concatenation-of-array](https://github.com/ifindary/LeetHub/tree/master/2058-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ifindary/LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ifindary/LeetHub/tree/master/2692-take-gifts-from-the-richest-pile) |
