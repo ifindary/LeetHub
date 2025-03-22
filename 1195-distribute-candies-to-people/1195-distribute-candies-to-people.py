@@ -1,21 +1,13 @@
 class Solution:
     def distributeCandies(self, candies: int, num_people: int) -> List[int]:
-        idx = 0
-        cnt = 1
+        idx, cnt = 0, 1
         ans = [0]*num_people
         
         while candies > 0:
-            if candies < cnt:
-                ans[idx] += candies
-                candies = 0
-            else:
-                ans[idx] += cnt
-                candies -= cnt
-                cnt += 1
+            ans[idx] += min(candies, cnt)
+            candies -= cnt
+            cnt += 1
 
-            if idx+1 >= num_people:
-                idx = 0
-            else:
-                idx += 1
+            idx = (idx+1) % num_people
 
         return ans
