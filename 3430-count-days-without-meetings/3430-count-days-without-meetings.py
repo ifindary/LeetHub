@@ -1,12 +1,18 @@
 class Solution:
     def countDays(self, days: int, meetings: List[List[int]]) -> int:
         meetings.sort()
-        prevE = 0
+        meetingDays = []
+        cnt = 0
 
-        for s, e in meetings:
-            s = max(s, prevE + 1)
-            period = e - s + 1
-            days -= max(period, 0)
-            prevE = max(prevE, e)
+        for meeting in meetings:
+            if not meetingDays:
+                meetingDays.append(meeting)
+            elif meetingDays[-1][1] < meeting[0]:
+                meetingDays.append(meeting)
+            else:
+                meetingDays[-1][1] = max(meetingDays[-1][1], meeting[1])
+        
+        for s, e in meetingDays:
+            cnt += (e - s + 1)
 
-        return days
+        return days - cnt
