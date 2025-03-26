@@ -5,9 +5,7 @@ class Solution:
         cnt = 0
 
         for meeting in meetings:
-            if not meetingDays:
-                meetingDays.append(meeting)
-            elif meetingDays[-1][1] < meeting[0]:
+            if not meetingDays or meetingDays[-1][1] < meeting[0]:
                 meetingDays.append(meeting)
             else:
                 meetingDays[-1][1] = max(meetingDays[-1][1], meeting[1])
