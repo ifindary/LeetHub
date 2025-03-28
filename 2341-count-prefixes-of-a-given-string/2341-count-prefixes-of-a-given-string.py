@@ -3,9 +3,7 @@ class Solution:
         cnt = 0
 
         for word in words:
-            length = len(word)
-
-            if s[0:length] == word:
+            if s.startswith(word):
                 cnt += 1
 
         return cnt
