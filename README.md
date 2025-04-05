@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1195-distribute-candies-to-people](https://github.com/ifindary/LeetHub/tree/master/1195-distribute-candies-to-people) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ifindary/LeetHub/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ifindary/LeetHub/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ifindary/LeetHub/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2383-add-two-integers](https://github.com/ifindary/LeetHub/tree/master/2383-add-two-integers) |
 | [2650-split-with-minimum-sum](https://github.com/ifindary/LeetHub/tree/master/2650-split-with-minimum-sum) |
 | [2752-sum-multiples](https://github.com/ifindary/LeetHub/tree/master/2752-sum-multiples) |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1603-running-sum-of-1d-array](https://github.com/ifindary/LeetHub/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/ifindary/LeetHub/tree/master/1651-shuffle-string) |
 | [1791-richest-customer-wealth](https://github.com/ifindary/LeetHub/tree/master/1791-richest-customer-wealth) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ifindary/LeetHub/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/ifindary/LeetHub/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2058-concatenation-of-array](https://github.com/ifindary/LeetHub/tree/master/2058-concatenation-of-array) |
 | [2107-find-unique-binary-string](https://github.com/ifindary/LeetHub/tree/master/2107-find-unique-binary-string) |
@@ -94,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/ifindary/LeetHub/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/ifindary/LeetHub/tree/master/0231-power-of-two) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ifindary/LeetHub/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ifindary/LeetHub/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Linked List
 |  |
 | ------- |
@@ -188,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ifindary/LeetHub/tree/master/0022-generate-parentheses) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ifindary/LeetHub/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/ifindary/LeetHub/tree/master/2107-find-unique-binary-string) |
 ## Counting Sort
 |  |
@@ -197,9 +201,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ifindary/LeetHub/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/ifindary/LeetHub/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Sliding Window
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ifindary/LeetHub/tree/master/0438-find-all-anagrams-in-a-string) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ifindary/LeetHub/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
