@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ifindary/LeetHub/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2383-add-two-integers](https://github.com/ifindary/LeetHub/tree/master/2383-add-two-integers) |
 | [2650-split-with-minimum-sum](https://github.com/ifindary/LeetHub/tree/master/2650-split-with-minimum-sum) |
+| [2663-distribute-money-to-maximum-children](https://github.com/ifindary/LeetHub/tree/master/2663-distribute-money-to-maximum-children) |
 | [2752-sum-multiples](https://github.com/ifindary/LeetHub/tree/master/2752-sum-multiples) |
 | [2857-total-distance-traveled](https://github.com/ifindary/LeetHub/tree/master/2857-total-distance-traveled) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ifindary/LeetHub/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/ifindary/LeetHub/tree/master/0890-lemonade-change) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/ifindary/LeetHub/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2650-split-with-minimum-sum](https://github.com/ifindary/LeetHub/tree/master/2650-split-with-minimum-sum) |
+| [2663-distribute-money-to-maximum-children](https://github.com/ifindary/LeetHub/tree/master/2663-distribute-money-to-maximum-children) |
 ## Tree
 |  |
 | ------- |
