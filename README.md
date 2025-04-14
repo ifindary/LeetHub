@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/ifindary/LeetHub/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ifindary/LeetHub/tree/master/0137-single-number-ii) |
 | [0274-h-index](https://github.com/ifindary/LeetHub/tree/master/0274-h-index) |
+| [0506-relative-ranks](https://github.com/ifindary/LeetHub/tree/master/0506-relative-ranks) |
 | [0575-distribute-candies](https://github.com/ifindary/LeetHub/tree/master/0575-distribute-candies) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ifindary/LeetHub/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0878-shifting-letters](https://github.com/ifindary/LeetHub/tree/master/0878-shifting-letters) |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/ifindary/LeetHub/tree/master/0506-relative-ranks) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ifindary/LeetHub/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Greedy
 |  |
@@ -175,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0274-h-index](https://github.com/ifindary/LeetHub/tree/master/0274-h-index) |
+| [0506-relative-ranks](https://github.com/ifindary/LeetHub/tree/master/0506-relative-ranks) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ifindary/LeetHub/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/ifindary/LeetHub/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ifindary/LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
