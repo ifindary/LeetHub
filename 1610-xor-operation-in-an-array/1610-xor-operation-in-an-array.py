@@ -2,10 +2,9 @@ class Solution:
     def xorOperation(self, n: int, start: int) -> int:
         ans = 0
 
-        while n > 0:
-            ans ^= start
+        nums = (start + n*2 for n in range(n))
 
-            start += 2
-            n -= 1
+        for n in nums:
+            ans = ans ^ n
 
         return ans
