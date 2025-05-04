@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ifindary/LeetHub/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/ifindary/LeetHub/tree/master/0021-merge-two-sorted-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/ifindary/LeetHub/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ifindary/LeetHub/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/ifindary/LeetHub/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/ifindary/LeetHub/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/ifindary/LeetHub/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
