@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/ifindary/LeetHub/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ifindary/LeetHub/tree/master/0137-single-number-ii) |
 | [0274-h-index](https://github.com/ifindary/LeetHub/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/ifindary/LeetHub/tree/master/0283-move-zeroes) |
 | [0506-relative-ranks](https://github.com/ifindary/LeetHub/tree/master/0506-relative-ranks) |
 | [0575-distribute-candies](https://github.com/ifindary/LeetHub/tree/master/0575-distribute-candies) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ifindary/LeetHub/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/ifindary/LeetHub/tree/master/0283-move-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ifindary/LeetHub/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0874-backspace-string-compare](https://github.com/ifindary/LeetHub/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/ifindary/LeetHub/tree/master/0908-middle-of-the-linked-list) |
