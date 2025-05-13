@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/ifindary/LeetHub/tree/master/0283-move-zeroes) |
 | [0506-relative-ranks](https://github.com/ifindary/LeetHub/tree/master/0506-relative-ranks) |
 | [0575-distribute-candies](https://github.com/ifindary/LeetHub/tree/master/0575-distribute-candies) |
+| [0682-baseball-game](https://github.com/ifindary/LeetHub/tree/master/0682-baseball-game) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ifindary/LeetHub/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0878-shifting-letters](https://github.com/ifindary/LeetHub/tree/master/0878-shifting-letters) |
 | [0890-lemonade-change](https://github.com/ifindary/LeetHub/tree/master/0890-lemonade-change) |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/ifindary/LeetHub/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/ifindary/LeetHub/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/ifindary/LeetHub/tree/master/0874-backspace-string-compare) |
 | [1195-distribute-candies-to-people](https://github.com/ifindary/LeetHub/tree/master/1195-distribute-candies-to-people) |
 | [2058-concatenation-of-array](https://github.com/ifindary/LeetHub/tree/master/2058-concatenation-of-array) |
@@ -195,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/ifindary/LeetHub/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/ifindary/LeetHub/tree/master/0874-backspace-string-compare) |
 ## Binary Search
 |  |
