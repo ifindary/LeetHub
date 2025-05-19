@@ -1,16 +1,8 @@
 class Solution:
     def subsetXORSum(self, nums: List[int]) -> int:
-        ans = sum(nums)
+        ans = 0
 
-        for i in range(2, len(nums)+1):
-            subsets = combinations(nums, i)
+        for n in nums:
+            ans |= n
 
-            for subset in subsets:
-                tmp = subset[0]
-
-                for j in range(1, len(subset)):
-                    tmp = tmp ^ subset[j]
-
-                ans += tmp
-
-        return ans
+        return ans << (len(nums)-1)
