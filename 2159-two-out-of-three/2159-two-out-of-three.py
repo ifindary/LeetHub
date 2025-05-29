@@ -1,11 +1,16 @@
 class Solution:
     def twoOutOfThree(self, nums1: List[int], nums2: List[int], nums3: List[int]) -> List[int]:
-        nums = list(set(nums1)) + list(set(nums2)) + list(set(nums3))
+        map1 = Counter(nums1)
+        map2 = Counter(nums2)
+        map3 = Counter(nums3)
         ans = []
 
-        for num in nums:
-            print(num, nums.count(num))
-            if nums.count(num) >= 2 and not num in ans:
-                ans.append(num)
+        for key in map1.keys():
+            if key in map2 or key in map3:
+                ans.append(key)
+            
+        for key in map2.keys():
+            if key in map3:
+                ans.append(key)
 
-        return ans
+        return list(set(ans))
