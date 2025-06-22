@@ -3,21 +3,9 @@ class Solution {
         var ans: [String] = []
 
         for i in 1...n {
-            var tempStr: String = ""
+            var tempStr = (i%3 == 0 ? "Fizz" : "") + (i%5 == 0 ? "Buzz" : "")
 
-            if i%3 == 0 {
-                tempStr += "Fizz"
-            }
-
-            if i%5 == 0 {
-                tempStr += "Buzz"
-            }
-
-            if tempStr == "" {
-                tempStr = String(i)
-            }
-            
-            ans.append(tempStr)
+            ans.append(tempStr.isEmpty ? String(i) : tempStr)
         }
         
         return ans
