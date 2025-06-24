@@ -4,7 +4,6 @@ class Solution {
     }
 
     func reserveNum(_ num: Int) -> Int {
-        let reserveStr = String(String(num).reversed())
-        return Int(reserveStr)!
+        return Int(String(String(num).reversed()))!
     }
 }
