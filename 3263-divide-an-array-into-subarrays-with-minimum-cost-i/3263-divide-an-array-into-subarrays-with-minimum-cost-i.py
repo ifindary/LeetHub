@@ -1,7 +1,7 @@
 class Solution:
     def minimumCost(self, nums: List[int]) -> int:
-        newNums = nums[1:]
-        newNums.sort()
+        heap = nums[1:]
+        heapq.heapify(heap)
 
-        return nums[0] + newNums[0] + newNums[1]
+        return nums[0] + heapq.heappop(heap) + heapq.heappop(heap)
         
