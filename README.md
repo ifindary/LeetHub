@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ifindary/LeetHub/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/ifindary/LeetHub/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/ifindary/LeetHub/tree/master/0035-search-insert-position) |
 | [0119-pascals-triangle-ii](https://github.com/ifindary/LeetHub/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/ifindary/LeetHub/tree/master/0136-single-number) |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ifindary/LeetHub/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/ifindary/LeetHub/tree/master/0283-move-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ifindary/LeetHub/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0874-backspace-string-compare](https://github.com/ifindary/LeetHub/tree/master/0874-backspace-string-compare) |
@@ -169,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ifindary/LeetHub/tree/master/0011-container-with-most-water) |
 | [0890-lemonade-change](https://github.com/ifindary/LeetHub/tree/master/0890-lemonade-change) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/ifindary/LeetHub/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2650-split-with-minimum-sum](https://github.com/ifindary/LeetHub/tree/master/2650-split-with-minimum-sum) |
