@@ -4,8 +4,8 @@ class Solution {
         var tmp = 0
 
         for num in nums {
-            ans.append(tmp + num)
             tmp += num
+            ans.append(tmp)
         }
 
         return ans
