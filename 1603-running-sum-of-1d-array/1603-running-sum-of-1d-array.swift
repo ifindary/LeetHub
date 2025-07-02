@@ -1,13 +1,11 @@
 class Solution {
     func runningSum(_ nums: [Int]) -> [Int] {
-        var ans: [Int] = []
-        var tmp = 0
+        var nums = nums
 
-        for num in nums {
-            tmp += num
-            ans.append(tmp)
+        for i in 1..<nums.count {
+            nums[i] = nums[i-1] + nums[i]
         }
 
-        return ans
+        return nums
     }
 }
