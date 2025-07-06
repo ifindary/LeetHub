@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ifindary/LeetHub/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ifindary/LeetHub/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/ifindary/LeetHub/tree/master/1610-xor-operation-in-an-array) |
+| [1806-count-of-matches-in-tournament](https://github.com/ifindary/LeetHub/tree/master/1806-count-of-matches-in-tournament) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ifindary/LeetHub/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2238-a-number-after-a-double-reversal](https://github.com/ifindary/LeetHub/tree/master/2238-a-number-after-a-double-reversal) |
 | [2383-add-two-integers](https://github.com/ifindary/LeetHub/tree/master/2383-add-two-integers) |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/ifindary/LeetHub/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/ifindary/LeetHub/tree/master/0874-backspace-string-compare) |
 | [1195-distribute-candies-to-people](https://github.com/ifindary/LeetHub/tree/master/1195-distribute-candies-to-people) |
+| [1806-count-of-matches-in-tournament](https://github.com/ifindary/LeetHub/tree/master/1806-count-of-matches-in-tournament) |
 | [2058-concatenation-of-array](https://github.com/ifindary/LeetHub/tree/master/2058-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ifindary/LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ifindary/LeetHub/tree/master/2692-take-gifts-from-the-richest-pile) |
