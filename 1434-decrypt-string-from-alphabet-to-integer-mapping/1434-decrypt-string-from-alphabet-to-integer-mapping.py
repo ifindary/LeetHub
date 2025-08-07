@@ -1,6 +1,19 @@
 class Solution(object):
     def freqAlphabets(self, s):
-        for i in range(26, 0, -1):
-            s = s.replace(str(i) + '#' * (i>9), chr(96+i))
+        """
+        :type s: str
+        :rtype: str
+        """
+        ans = []
 
-        return s
+        i = 0
+
+        while i < len(s):
+            if i+2 < len(s) and s[i+2] == '#':
+                ans.append(chr(int(s[i:i+2])+96))
+                i += 3
+            else:
+                ans.append(chr(int(s[i])+96))
+                i += 1
+        
+        return ''.join(ans)
