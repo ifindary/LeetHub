@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ifindary/LeetHub/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/ifindary/LeetHub/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2058-concatenation-of-array](https://github.com/ifindary/LeetHub/tree/master/2058-concatenation-of-array) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ifindary/LeetHub/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2107-find-unique-binary-string](https://github.com/ifindary/LeetHub/tree/master/2107-find-unique-binary-string) |
 | [2159-two-out-of-three](https://github.com/ifindary/LeetHub/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ifindary/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0878-shifting-letters](https://github.com/ifindary/LeetHub/tree/master/0878-shifting-letters) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/ifindary/LeetHub/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1651-shuffle-string](https://github.com/ifindary/LeetHub/tree/master/1651-shuffle-string) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ifindary/LeetHub/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2107-find-unique-binary-string](https://github.com/ifindary/LeetHub/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ifindary/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/ifindary/LeetHub/tree/master/2337-remove-digit-from-number-to-maximize-result) |
