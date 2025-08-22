@@ -1,15 +1,13 @@
 class Solution(object):
     def bestHand(self, ranks, suits):
-        setRanks = set(ranks)
-        
-        if len(set(suits)) == 1:
+        maxRanksCnt = max(Counter(ranks).values())
+        maxSuitsCnt = max(Counter(suits).values())
+
+        if maxSuitsCnt == 5:
             return "Flush"
-        elif len(setRanks) == 2 or len(setRanks) == 3:
-            for rank in setRanks:
-                if ranks.count(rank) >= 3:
-                    return "Three of a Kind"
-            return "Pair"
-        elif len(setRanks) == 4:
+        elif maxRanksCnt == 3 or maxRanksCnt == 4:
+            return "Three of a Kind"
+        elif maxRanksCnt == 2:
             return "Pair"
         else:
             return "High Card"
