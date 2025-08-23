@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/ifindary/LeetHub/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ifindary/LeetHub/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ifindary/LeetHub/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3415-check-if-grid-satisfies-conditions](https://github.com/ifindary/LeetHub/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3430-count-days-without-meetings](https://github.com/ifindary/LeetHub/tree/master/3430-count-days-without-meetings) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/ifindary/LeetHub/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Prefix Sum
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/ifindary/LeetHub/tree/master/1791-richest-customer-wealth) |
+| [3415-check-if-grid-satisfies-conditions](https://github.com/ifindary/LeetHub/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## String
 |  |
 | ------- |
