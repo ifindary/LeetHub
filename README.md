@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ifindary/LeetHub/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/ifindary/LeetHub/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/ifindary/LeetHub/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3830-find-closest-person](https://github.com/ifindary/LeetHub/tree/master/3830-find-closest-person) |
 ## Array
 |  |
 | ------- |
