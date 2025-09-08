@@ -1,21 +1,12 @@
 class Solution:
     def generateKey(self, num1: int, num2: int, num3: int) -> int:
-        deque1 = deque(str(num1))
-        deque2 = deque(str(num2))
-        deque3 = deque(str(num3))
-
-        while len(deque1) < 4:
-            deque1.appendleft('0')
-
-        while len(deque2) < 4:
-            deque2.appendleft('0')
-
-        while len(deque3) < 4:
-            deque3.appendleft('0')
+        str1 = str(num1).rjust(4, '0')
+        str2 = str(num2).rjust(4, '0')
+        str3 = str(num3).rjust(4, '0')
 
         ans = 0
 
         for i in range(4):
-            ans += min(int(deque1[i]), int(deque2[i]), int(deque3[i])) * 10**(3-i)
+            ans += min(int(str1[i]), int(str2[i]), int(str3[i])) * 10**(3-i)
 
         return ans
