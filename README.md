@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ifindary/LeetHub/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/ifindary/LeetHub/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ifindary/LeetHub/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3200-maximum-height-of-a-triangle](https://github.com/ifindary/LeetHub/tree/master/3200-maximum-height-of-a-triangle) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ifindary/LeetHub/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/ifindary/LeetHub/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3430-count-days-without-meetings](https://github.com/ifindary/LeetHub/tree/master/3430-count-days-without-meetings) |
@@ -247,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ifindary/LeetHub/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/ifindary/LeetHub/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [3200-maximum-height-of-a-triangle](https://github.com/ifindary/LeetHub/tree/master/3200-maximum-height-of-a-triangle) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ifindary/LeetHub/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Sliding Window
 |  |
