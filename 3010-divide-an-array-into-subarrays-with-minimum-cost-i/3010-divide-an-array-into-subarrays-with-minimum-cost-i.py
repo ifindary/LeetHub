@@ -4,7 +4,6 @@ class Solution:
         nums.remove(minSum)
         nums.sort()
 
-
         for i in range(2):
             minSum += nums[i]
 
