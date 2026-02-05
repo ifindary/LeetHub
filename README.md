@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2341-count-prefixes-of-a-given-string](https://github.com/ifindary/LeetHub/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2433-best-poker-hand](https://github.com/ifindary/LeetHub/tree/master/2433-best-poker-hand) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ifindary/LeetHub/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ifindary/LeetHub/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/ifindary/LeetHub/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ifindary/LeetHub/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3200-maximum-height-of-a-triangle](https://github.com/ifindary/LeetHub/tree/master/3200-maximum-height-of-a-triangle) |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ifindary/LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/ifindary/LeetHub/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2650-split-with-minimum-sum](https://github.com/ifindary/LeetHub/tree/master/2650-split-with-minimum-sum) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ifindary/LeetHub/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ifindary/LeetHub/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3430-count-days-without-meetings](https://github.com/ifindary/LeetHub/tree/master/3430-count-days-without-meetings) |
 ## Stack
@@ -248,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ifindary/LeetHub/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/ifindary/LeetHub/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ifindary/LeetHub/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3200-maximum-height-of-a-triangle](https://github.com/ifindary/LeetHub/tree/master/3200-maximum-height-of-a-triangle) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ifindary/LeetHub/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Sliding Window
