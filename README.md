@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/ifindary/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/ifindary/LeetHub/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/ifindary/LeetHub/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2833-furthest-point-from-origin](https://github.com/ifindary/LeetHub/tree/master/2833-furthest-point-from-origin) |
 ## Simulation
 |  |
 | ------- |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/ifindary/LeetHub/tree/master/0383-ransom-note) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ifindary/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2433-best-poker-hand](https://github.com/ifindary/LeetHub/tree/master/2433-best-poker-hand) |
+| [2833-furthest-point-from-origin](https://github.com/ifindary/LeetHub/tree/master/2833-furthest-point-from-origin) |
 ## Recursion
 |  |
 | ------- |
