@@ -235,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ifindary/LeetHub/tree/master/0035-search-insert-position) |
+| [0278-first-bad-version](https://github.com/ifindary/LeetHub/tree/master/0278-first-bad-version) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ifindary/LeetHub/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Backtracking
 |  |
@@ -272,4 +273,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/ifindary/LeetHub/tree/master/0459-repeated-substring-pattern) |
 | [1524-string-matching-in-an-array](https://github.com/ifindary/LeetHub/tree/master/1524-string-matching-in-an-array) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/ifindary/LeetHub/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
